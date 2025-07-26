@@ -73,8 +73,8 @@ education    : Undergraduate Student in Data Science – Telkom University
 <h2 align="center">🔗 Let's Connect</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/faaris-khairrudin"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/@faaris-khairrudin"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-12100e?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/faaris-khairrudin-a10209310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.instagram.com/faaris_khairrudin?igsh=MWhjdzU2NXp4ZTcyNQ=="><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-12100e?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:faariskhairrudin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 

@@ -4,8 +4,12 @@
 
 <!-- 1. HEADER ANIMASI -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hi%20there!%20I'm%20Faaris%20🖖&animation=fadeIn&type=waving&color=gradient&height=120"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn"/>
 </p>
+       
+![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00b4d8&center=true&vCenter=true&lines=Hi!+I'm+Faaris+Khairrudin;Machine+Learning+Enthusiast;Passionate+about+Data+&+Insight;Building+AI+Agents+from+Ideas+to+Execution)
+
+
 
 <!-- 2. VISITOR COUNTER & STATUS -->
 <p align="center">
@@ -26,23 +30,27 @@ current_role : Data Science Learner
 education    : Undergraduate Student in Data Science – Telkom University
 ```
 
-- 🌱 **Currently Learning**: Spark Structured Streaming, MLOps, Graph Neural Networks  
-- 🔭 **Working On**: Real-time anomaly detection pipeline  
+- 🌱 **Currently Learning**:  
+  - Deep Reinforcement Learning for decision-making  
+  - Computer Vision for real-world AI use cases  
+  - Multi-Agent systems & n8n automation  
+
+- 🔭 **Working On**:  
+  Portfolio optimization using ML forecasts and DRL strategies
+
 - 🎯 **2025 Goals**:  
-  - Contribute to 3 open-source data projects  
-  - Publish 6 Medium articles on scalable ML  
-  - Speak at 1 virtual meet-up
+  - Win more AI & ML competitions  
+  - Build and share practical AI tools  
+  - Open-source agent templates for automation and analytics
 
 ---
 
 <!-- 4. Tech & Tools -->
 <h2 align="center">⚙️ Tech & Tools</h2>
 
-| Big-Data Stack | Languages | Data Viz & MLOps |
-|----------------|-----------|------------------|
-| ![Hadoop](https://img.shields.io/badge/-Hadoop-ffa500?style=flat-square&logo=apachehadoop&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white) | ![Tableau](https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau&logoColor=white) |
-| ![Spark](https://img.shields.io/badge/-Spark-e25a1c?style=flat-square&logo=apachespark&logoColor=white) | ![Scala](https://img.shields.io/badge/-Scala-dc322f?style=flat-square&logo=scala&logoColor=white) | ![MLflow](https://img.shields.io/badge/-MLflow-0194e2?style=flat-square&logo=mlflow&logoColor=white) |
-| ![Kafka](https://img.shields.io/badge/-Kafka-231f20?style=flat-square&logo=apachekafka&logoColor=white) | ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Airflow](https://img.shields.io/badge/-Airflow-017cee?style=flat-square&logo=apacheairflow&logoColor=white) |
+| Big-Data Stack | Languages | DataViz | ML & AI | Others |
+|----------------|-----------|---------|---------|--------|
+| ![Hadoop](https://img.shields.io/badge/-Hadoop-ffa500?style=flat-square&logo=apachehadoop&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-e25a1c?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231f20?style=flat-square&logo=apachekafka&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) | ![PowerBI](https://img.shields.io/badge/-PowerBI-f2c811?style=flat-square&logo=powerbi&logoColor=black) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776ab?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau&logoColor=white) ![Bokeh](https://img.shields.io/badge/-Bokeh-542583?style=flat-square&logo=bokeh&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194e2?style=flat-square&logo=mlflow&logoColor=white) ![neuralforecast](https://img.shields.io/badge/-neuralforecast-00b4d8?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white) | ![Notion](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-7c3aed?style=flat-square&logo=canva&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-1f2937?style=flat-square&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/-Make-00d4aa?style=flat-square&logo=make&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)  |
 
 <!-- 5. GitHub Activity -->
 <h2 align="center">🏅 GitHub Activity</h2>
@@ -60,14 +68,6 @@ education    : Undergraduate Student in Data Science – Telkom University
 |---------|------|-------------|
 | [**SQL Data Warehouse Project**](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `SSMS`, `SQL`, `ETL` | ETL processes, data modeling, and analytics to support data-driven decision-making.  |
 
-
-<!-- 7. Latest Medium Stories -->
-<h2 align="center">✍️ Latest Medium Stories</h2>
-
-<!-- MEDIUM-STORY-LIST:start -->
-<!-- konten akan otomatis diisi oleh GitHub Action -->
-<!-- MEDIUM-STORY-LIST:end -->
-
 <!-- 8. Social Links -->
 <h2 align="center">🔗 Let's Connect</h2>
 
@@ -80,7 +80,7 @@ education    : Undergraduate Student in Data Science – Telkom University
 <!-- 9. Fun Fact -->
 <h3 align="center">⚡ Fun Fact</h3>
 <p align="center">
-  I once reduced a 6-hour Spark job to 42 minutes by repartitioning and caching strategically 🏎️
+  📚 I read research papers like most people read tweets.
 </p>
 
 <!-- 10. Footer -->

@@ -67,6 +67,7 @@ education    : Undergraduate Student in Data Science – Telkom University
 | Project | Tech | Description |
 |---------|------|-------------|
 | [**SQL Data Warehouse Project**](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `SSMS`, `SQL`, `ETL` | ETL processes, data modeling, and analytics to support data-driven decision-making.  |
+| [**Bank Customer Deposit Prediction**](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `Python`, `Scikit-Learn`, `Matplotlib`, `Optuna`, `Matplotlib` | Build and evaluate a predictive model to handle imbalanced data for the 2025 Bank Customer Deposit Prediction Challenge by Data Science Indonesia. |
 
 <!-- 8. Social Links -->
 <h2 align="center">🔗 Let's Connect</h2>

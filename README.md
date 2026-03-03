@@ -7,8 +7,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn"/>
 </p>
        
-![Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00b4d8&center=true&vCenter=true&lines=Hi!+I'm+Faaris+Khairrudin;Machine+Learning+Enthusiast;Passionate+about+Data+&+Insight;Building+AI+Agents+from+Ideas+to+Execution)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00b4d8&center=true&vCenter=true&width=900&lines=Hi!+I'm+Faaris+Khairrudin;Machine+Learning+Enthusiast;Passionate+about+Data+%26+Insight;Building+AI+Agents+from+Ideas+to+Execution" />
+</p>
 
 
 <!-- 2. VISITOR COUNTER & STATUS -->
@@ -38,7 +39,7 @@ education    : Undergraduate Student in Data Science – Telkom University
 - 🔭 **Working On**:  
   Portfolio optimization using ML forecasts and DRL strategies
 
-- 🎯 **2025 Goals**:  
+- 🎯 **2026 Goals**:  
   - Win more AI & ML competitions  
   - Build and share practical AI tools  
   - Open-source agent templates for automation and analytics
@@ -46,11 +47,11 @@ education    : Undergraduate Student in Data Science – Telkom University
 ---
 
 <!-- 4. Tech & Tools -->
-<h2 align="center">⚙️ Tech & Tools</h2>
+<h2 align="center">⚙️ Tech Stack</h2>
 
-| Big-Data Stack | Languages | DataViz | ML & AI | Others |
-|----------------|-----------|---------|---------|--------|
-| ![Hadoop](https://img.shields.io/badge/-Hadoop-ffa500?style=flat-square&logo=apachehadoop&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-e25a1c?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231f20?style=flat-square&logo=apachekafka&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599c?style=flat-square&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white) ![HTML5](https://img.shields.io/badge/-HTML5-e34f26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572b6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) | ![PowerBI](https://img.shields.io/badge/-PowerBI-f2c811?style=flat-square&logo=powerbi&logoColor=black) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776ab?style=flat-square&logo=python&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau&logoColor=white) ![Bokeh](https://img.shields.io/badge/-Bokeh-542583?style=flat-square&logo=bokeh&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/-MLflow-0194e2?style=flat-square&logo=mlflow&logoColor=white) ![neuralforecast](https://img.shields.io/badge/-neuralforecast-00b4d8?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white) | ![Notion](https://img.shields.io/badge/-Notion-000?style=flat-square&logo=notion&logoColor=white) ![Canva](https://img.shields.io/badge/-Canva-7c3aed?style=flat-square&logo=canva&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-1f2937?style=flat-square&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/-Make-00d4aa?style=flat-square&logo=make&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white)  |
+| Data Engineering | Programming | Analytics & Viz | AI & Machine Learning | Dev & Deployment |
+|------------------|------------|----------------|----------------------|------------------|
+| ![Hadoop](https://img.shields.io/badge/-Hadoop-ffa500?style=flat-square&logo=apachehadoop&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-e25a1c?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231f20?style=flat-square&logo=apachekafka&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) | ![PowerBI](https://img.shields.io/badge/-PowerBI-f2c811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776ab?style=flat-square&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white) ![NeuralForecast](https://img.shields.io/badge/-NeuralForecast-00b4d8?style=flat-square&logo=pytorch&logoColor=white) ![Stable-Baselines3](https://img.shields.io/badge/-Stable--Baselines3-3b82f6?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-1f2937?style=flat-square&logo=n8n&logoColor=white) |
 
 <!-- 5. GitHub Activity -->
 <h2 align="center">🏅 GitHub Activity</h2>
@@ -66,8 +67,11 @@ education    : Undergraduate Student in Data Science – Telkom University
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [**SQL Data Warehouse Project**](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `SSMS`, `SQL`, `ETL` | Build ETL processes, data modeling, and analytics to support data-driven decision-making.  |
-| [**Bank Customer Deposit Prediction**](https://github.com/FaarisKhairrudin/bank-customer-deposit-prediction) | `Python`, `Scikit-Learn`, `Matplotlib`, `Optuna` | Build and evaluate a predictive model to handle imbalanced data for the 2025 Bank Customer Deposit Prediction Challenge by Data Science Indonesia. |
+| [🎥 Social Video Intelligence — Satria Data 2025 (4th Place, National – Puspresnas)](https://github.com/FaarisKhairrudin/social-video-multimodal-analysis) | `Whisper`, `BLIP-2`, `BERTopic`, `GLiNER`, `Qwen`, `Next.js 14` | 4th Place National Winner (Pusat Prestasi Nasional). Built an end-to-end multimodal AI system that transforms social-media videos into structured insights — including transcription, topic modeling, emotion analysis, NER, LLM summarisation, and a fully interactive analytics dashboard. |
+| [📈 IDX Smart Rebalance — Datathon UI 2025 Finalist](https://github.com/FaarisKhairrudin/idx-smart-rebalance) | `Python`, `FastAPI`, `Stable-Baselines3`, `NeuralForecast`, `Deep Reinforcement Learning`, `HTML/CSS` | National Top-7 Finalist in Datathon 2025 (UI Ristek). Built an AI-powered sector allocation & portfolio optimization system using time-series forecasting (NeuralForecast) combined with Deep Reinforcement Learning (SB3) for adaptive rebalancing, deployed via FastAPI backend with custom web interface. |
+| [🏆 Hology 8.0 — Crowd Detection & Counting](https://github.com/Frenwin/Hology-8.0-Crowd-Detection) | `PyTorch`, `CSRNet`, `Computer Vision`, `Density Map Regression` | Competition solution for Hology 8.0 (Data Mining Track). Built an end-to-end crowd counting system using CSRNet with adaptive Gaussian density maps to estimate people in highly congested scenes—robust against occlusion and extreme density. |
+| [💳 Bank Customer Deposit Prediction](https://github.com/FaarisKhairrudin/bank-customer-deposit-prediction) | `Python`, `XGBoost`, `LightGBM`, `CatBoost`, `Ensemble` | Built an ensemble classification model to predict term-deposit subscription for the 2025 Data Science Indonesia Challenge. Focused on feature engineering and class imbalance handling. |
+| [🗄 SQL Data Warehouse Project](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `SQL Server`, `ETL`, `Data Modeling` | Designed a medallion-architecture data warehouse (Bronze–Silver–Gold layers) with ETL pipelines and analytics-ready schema. |
 
 <!-- 8. Social Links -->
 <h2 align="center">🔗 Let's Connect</h2>

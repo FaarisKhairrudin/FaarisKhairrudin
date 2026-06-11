@@ -98,7 +98,7 @@ focus:
 
 | Repository | What It Shows |
 |---|---|
-| [coppa-violation-detection](https://github.com/FaarisKhairrudin/coppa-violation-detection) | ML/NLP-oriented classification workflow for COPPA-related violation detection. |
+| [coppa-violation-detection](https://github.com/FaarisKhairrudin/coppa-violation-detection) | ML classification workflow for COPPA-related violation detection. |
 | [bank-customer-deposit-prediction](https://github.com/FaarisKhairrudin/bank-customer-deposit-prediction) | Tabular ML classification with feature engineering, imbalance handling, and ensemble boosting. |
 
 ### Data Analytics & Engineering

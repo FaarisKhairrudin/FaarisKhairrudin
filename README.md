@@ -113,6 +113,12 @@ focus:
 |---|---|
 | [lenta-ai-operations-system](https://github.com/FaarisKhairrudin/lenta-ai-operations-system) | Agentic business automation with WhatsApp AI, n8n workflow orchestration, Supabase operations, order tools, stock flow, and admin notifications. |
 
+### Web & Dashboard
+
+| Repository | What It Shows |
+|---|---|
+| [lenta-dashboard](https://github.com/FaarisKhairrudin/lenta-dashboard) | TypeScript dashboard for monitoring daily Lenta operations, including orders, stock, income, expenses, profit, and manual operational inputs. |
+
 ### Academic Programming Projects
 
 | Repository | What It Shows |
@@ -120,8 +126,6 @@ focus:
 | [Aplikasi-email](https://github.com/FaarisKhairrudin/Aplikasi-email) | Simple Go email application with login, inbox, sending mail, and in-memory array/struct storage. |
 | [Teks-Editor](https://github.com/FaarisKhairrudin/Teks-Editor) | C++ text editor using linked list and stack concepts for cursor movement, copy-paste, search-replace, undo, and redo. |
 | [The-Object-Hour](https://github.com/Fall-Llihc/The-Object-Hour) | Java Servlet/JSP MVC e-commerce app for premium watches with PostgreSQL/Supabase, authentication, customer flows, and admin product management. |
-
-> Note: `lenta-dashboard` was listed in my local project source, but the public GitHub URL returned 404 during verification, so I left it out of the public directory until the correct/public link is confirmed.
 
 ---
 

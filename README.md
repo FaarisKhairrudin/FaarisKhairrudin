@@ -1,94 +1,169 @@
 <!-- ===================================================================
-     🚀 BIG-DATA & DATA-SCIENCE GITHUB PROFILE README
+     Faaris Khairrudin - GitHub Profile README
+     Data Science | AI Builder | Big Data Analytics
 ==================================================================== -->
 
-<!-- 1. HEADER ANIMASI -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&animation=fadeIn"/>
-</p>
-       
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=00b4d8&center=true&vCenter=true&width=900&lines=Hi!+I'm+Faaris+Khairrudin;Machine+Learning+Enthusiast;Passionate+about+Data+%26+Insight;Building+AI+Agents+from+Ideas+to+Execution" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,50:0077b6,100:00b4d8&height=110&section=header&text=Faaris%20Khairrudin&fontSize=34&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
-<!-- 2. VISITOR COUNTER & STATUS -->
 <p align="center">
-  <img alt="Visitor Count" src="https://komarev.com/ghpvc/?username=FaarisKhairrudin&style=flat-square&color=00b4d8"/>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FaarisKhairrudin&show_icons=true&hide_border=true&theme=radical"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3600&pause=900&color=00B4D8&center=true&vCenter=true&width=900&lines=Data+Science+Student+%40+Telkom+University;AI+Builder+for+Multimodal%2C+Vision%2C+Forecasting+%26+DRL;Turning+data+pipelines+into+usable+AI+systems" />
+</p>
+
+<p align="center">
+  <a href="mailto:faariskhairrudin@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-faariskhairrudin%40gmail.com-d14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/faaris-khairrudin-a10209310">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Faaris%20Khairrudin-0077b5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/FaarisKhairrudin">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-FaarisKhairrudin-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=FaarisKhairrudin&style=flat-square&color=00b4d8" />
 </p>
 
 ---
 
-<!-- 3. ABOUT ME -->
-<h2 align="center">🔍 About Me</h2>
+## Hi, I'm Faaris
+
+I am an undergraduate **Data Science student at Telkom University** focused on building practical AI systems across **multimodal analytics, computer vision, time-series forecasting, deep reinforcement learning, automation, and big data analytics**.
+
+My portfolio is shaped by competition-driven projects, research-oriented experiments, and end-to-end systems that connect models with dashboards, APIs, workflows, or real operational use cases.
 
 ```yaml
-name         : Faaris Khairrudin
-tagline      : "Turning raw bytes into business gold 🏆"
-location     : Bekasi, Indonesia
-current_role : Data Science Learner
-education    : Undergraduate Student in Data Science – Telkom University
+name: Faaris Khairrudin
+location: Bekasi, Indonesia
+education: Bachelor of Data Science - Telkom University
+gpa: 3.93 / 4.00
+focus:
+  - Artificial Intelligence
+  - Machine Learning & Deep Learning
+  - Computer Vision & Multimodal AI
+  - Time-Series Forecasting
+  - Deep Reinforcement Learning
+  - Big Data Analytics
 ```
 
-- 🌱 **Currently Learning**:  
-  - Deep Reinforcement Learning for decision-making  
-  - Computer Vision for real-world AI use cases  
-  - Multi-Agent systems & n8n automation  
+### Quick Highlights
 
-- 🔭 **Working On**:  
-  Portfolio optimization using ML forecasts and DRL strategies
-
-- 🎯 **2026 Goals**:  
-  - Win more AI & ML competitions  
-  - Build and share practical AI tools  
-  - Open-source agent templates for automation and analytics
+- **4th Place National Winner / Juara Harapan 1 - Satria Data 2025**, Data Mining category.
+- **Top 7 National Finalist - Datathon UI 2025** with an AI-powered portfolio rebalancing system.
+- **Vice Coordinator of Big Data Laboratory Telkom University** since 2026.
+- **Teaching Assistant for Intelligent Systems** and research assistant for geospatial ML-based PETI detection.
+- Building AI projects that move beyond notebooks into dashboards, APIs, automation workflows, and decision-support tools.
 
 ---
 
-<!-- 4. Tech & Tools -->
-<h2 align="center">⚙️ Tech Stack</h2>
+## Tech Stack
 
-| Data Engineering | Programming | Analytics & Viz | AI & Machine Learning | Dev & Deployment |
-|------------------|------------|----------------|----------------------|------------------|
-| ![Hadoop](https://img.shields.io/badge/-Hadoop-ffa500?style=flat-square&logo=apachehadoop&logoColor=white) ![Spark](https://img.shields.io/badge/-Spark-e25a1c?style=flat-square&logo=apachespark&logoColor=white) ![Kafka](https://img.shields.io/badge/-Kafka-231f20?style=flat-square&logo=apachekafka&logoColor=white) ![SQL Server](https://img.shields.io/badge/-SQL%20Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) | ![Python](https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00add8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) | ![PowerBI](https://img.shields.io/badge/-PowerBI-f2c811?style=flat-square&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-3776ab?style=flat-square&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/-Tableau-e97627?style=flat-square&logo=tableau&logoColor=white) | ![PyTorch](https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white) ![NeuralForecast](https://img.shields.io/badge/-NeuralForecast-00b4d8?style=flat-square&logo=pytorch&logoColor=white) ![Stable-Baselines3](https://img.shields.io/badge/-Stable--Baselines3-3b82f6?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1c3c3c?style=flat-square&logo=langchain&logoColor=white) | ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white) ![n8n](https://img.shields.io/badge/-n8n-1f2937?style=flat-square&logo=n8n&logoColor=white) |
+| Area | Tools |
+|---|---|
+| **Programming** | ![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![Go](https://img.shields.io/badge/Go-00add8?style=flat-square&logo=go&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black) |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-ffcc4d?style=flat-square&logo=huggingface&logoColor=black) |
+| **AI Domains** | `Computer Vision` `NLP` `Multimodal AI` `LLM Summarization` `Forecasting` `Deep Reinforcement Learning` `Geospatial ML` |
+| **Data & Analytics** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-cc2927?style=flat-square&logo=microsoftsqlserver&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-f2c811?style=flat-square&logo=powerbi&logoColor=black) |
+| **Deployment & Automation** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088ff?style=flat-square&logo=githubactions&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-1f2937?style=flat-square&logo=n8n&logoColor=white) |
 
-<!-- 5. GitHub Activity -->
-<h2 align="center">🏅 GitHub Activity</h2>
+---
+
+## Featured Portfolio Projects
+
+| Project | Focus | Short Description |
+|---|---|---|
+| [Social Video Intelligence - Satria Data 2025](https://github.com/FaarisKhairrudin/social-video-multimodal-analysis) | `Multimodal AI` `Whisper` `BLIP-2` `BERTopic` `Qwen` `Next.js` | 4th Place National project that turns social-media videos into structured insight through transcription, visual understanding, topic modeling, NER, summarization, and dashboard analytics. |
+| [IDX Smart Rebalance - Datathon UI 2025](https://github.com/FaarisKhairrudin/idx-smart-rebalance) | `Forecasting` `Deep RL` `FastAPI` `Stable-Baselines3` | Top 7 National finalist system for Indonesian stock-sector allocation using time-series forecasting, geopolitical signals, and DRL-based portfolio rebalancing. |
+| [Lenta AI Operations System](https://github.com/FaarisKhairrudin/lenta-ai-operations-system) | `AI Agent` `n8n` `Supabase` `WhatsApp Automation` | End-to-end business automation system with AI WhatsApp customer service, customer recognition, order handling, inventory flow, and owner notifications. |
+| [Crowd Detection & Counting](https://github.com/Frenwin/Hology-8.0-Crowd-Detection) | `Computer Vision` `CSRNet` `Density Map Regression` | Crowd-counting model for dense scenes using CSRNet and adaptive Gaussian density maps to estimate people under occlusion and high crowd density. |
+| [Smart Face Anti-Spoofing](https://github.com/FaarisKhairrudin/Smart-Face-AntiSpoofing) | `Computer Vision` `DINOv3` `Focal Loss` | Face anti-spoofing classifier designed to distinguish real faces from presentation attacks using deep visual representations and robust inference. |
+| [SQL Data Warehouse Project](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `SQL Server` `ETL` `Data Modeling` | Medallion-architecture warehouse with Bronze, Silver, and Gold layers for cleaner analytics-ready data modeling. |
+
+---
+
+## Project Directory
+
+### Deep Learning & AI Systems
+
+| Repository | What It Shows |
+|---|---|
+| [social-video-multimodal-analysis](https://github.com/FaarisKhairrudin/social-video-multimodal-analysis) | Multimodal AI pipeline for video insight extraction and dashboard analytics. |
+| [Prescriptive-food-price-intelligence](https://github.com/FaarisKhairrudin/Prescriptive-food-price-intelligence) | Food-price intelligence project combining forecasting and decision-support framing. |
+| [Smart-Face-AntiSpoofing](https://github.com/FaarisKhairrudin/Smart-Face-AntiSpoofing) | Deep learning approach for face anti-spoofing and biometric security. |
+| [idx-smart-rebalance](https://github.com/FaarisKhairrudin/idx-smart-rebalance) | Forecasting plus deep reinforcement learning for adaptive portfolio allocation. |
+| [neuralforecast-air-quality-jakarta](https://github.com/FaarisKhairrudin/neuralforecast-air-quality-jakarta) | Jakarta air-quality prediction using NeuralForecast and time-series modeling. |
+| [Hology-8.0-Crowd-Detection](https://github.com/Frenwin/Hology-8.0-Crowd-Detection) | Computer vision project for dense crowd counting with density-map regression. |
+
+### Machine Learning
+
+| Repository | What It Shows |
+|---|---|
+| [coppa-violation-detection](https://github.com/FaarisKhairrudin/coppa-violation-detection) | ML/NLP-oriented classification workflow for COPPA-related violation detection. |
+| [bank-customer-deposit-prediction](https://github.com/FaarisKhairrudin/bank-customer-deposit-prediction) | Tabular ML classification with feature engineering, imbalance handling, and ensemble boosting. |
+
+### Data Analytics & Engineering
+
+| Repository | What It Shows |
+|---|---|
+| [SQL-Data-Warehouse-Project](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | Data warehouse design, ETL pipeline structure, and analytics-ready SQL modeling. |
+
+### Automation & Agentic AI
+
+| Repository | What It Shows |
+|---|---|
+| [lenta-ai-operations-system](https://github.com/FaarisKhairrudin/lenta-ai-operations-system) | Agentic business automation with WhatsApp AI, n8n workflows, Supabase, and operational tooling. |
+
+### Web & Dashboard
+
+| Repository | What It Shows |
+|---|---|
+| [lenta-dashboard](https://github.com/FaarisKhairrudin/lenta-dashboard) | Operational dashboard interface for business monitoring and manual order workflows. |
+
+### Academic Programming Projects
+
+| Repository | What It Shows |
+|---|---|
+| [Aplikasi-email](https://github.com/FaarisKhairrudin/Aplikasi-email) | Email application project from programming coursework. |
+| [Teks-Editor](https://github.com/FaarisKhairrudin/Teks-Editor) | Text editor application project focused on core programming concepts. |
+| [The-Object-Hour](https://github.com/Fall-Llihc/The-Object-Hour) | Object-oriented programming project built as an academic/team assignment. |
+
+---
+
+## GitHub Activity
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=FaarisKhairrudin&theme=radical&hide_border=true"/>
-  <br/><br/>
-  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=FaarisKhairrudin&theme=radical&no-frame=true&no-bg=true"/>
+  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FaarisKhairrudin&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="165" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaarisKhairrudin&layout=compact&hide_border=true&theme=tokyonight" />
 </p>
 
-<!-- 6. Featured Projects -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-| Project | Tech | Description |
-|---------|------|-------------|
-| [🎥 Social Video Intelligence — Satria Data 2025 (4th Place, National – Puspresnas)](https://github.com/FaarisKhairrudin/social-video-multimodal-analysis) | `Whisper`, `BLIP-2`, `BERTopic`, `GLiNER`, `Qwen`, `Next.js 14` | 4th Place National Winner (Pusat Prestasi Nasional). Built an end-to-end multimodal AI system that transforms social-media videos into structured insights — including transcription, topic modeling, emotion analysis, NER, LLM summarisation, and a fully interactive analytics dashboard. |
-| [📈 IDX Smart Rebalance — Datathon UI 2025 Finalist](https://github.com/FaarisKhairrudin/idx-smart-rebalance) | `Python`, `FastAPI`, `Stable-Baselines3`, `NeuralForecast`, `Deep Reinforcement Learning`, `HTML/CSS` | National Top-7 Finalist in Datathon 2025 (UI Ristek). Built an AI-powered sector allocation & portfolio optimization system using time-series forecasting (NeuralForecast) combined with Deep Reinforcement Learning (SB3) for adaptive rebalancing, deployed via FastAPI backend with custom web interface. |
-| [🏆 Hology 8.0 — Crowd Detection & Counting](https://github.com/Frenwin/Hology-8.0-Crowd-Detection) | `PyTorch`, `CSRNet`, `Computer Vision`, `Density Map Regression` | Competition solution for Hology 8.0 (Data Mining Track). Built an end-to-end crowd counting system using CSRNet with adaptive Gaussian density maps to estimate people in highly congested scenes—robust against occlusion and extreme density. |
-| [💳 Bank Customer Deposit Prediction](https://github.com/FaarisKhairrudin/bank-customer-deposit-prediction) | `Python`, `XGBoost`, `LightGBM`, `CatBoost`, `Ensemble` | Built an ensemble classification model to predict term-deposit subscription for the 2025 Data Science Indonesia Challenge. Focused on feature engineering and class imbalance handling. |
-| [🗄 SQL Data Warehouse Project](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `SQL Server`, `ETL`, `Data Modeling` | Designed a medallion-architecture data warehouse (Bronze–Silver–Gold layers) with ETL pipelines and analytics-ready schema. |
-
-<!-- 8. Social Links -->
-<h2 align="center">🔗 Let's Connect</h2>
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/faaris-khairrudin-a10209310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/faaris_khairrudin?igsh=MWhjdzU2NXp4ZTcyNQ=="><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-12100e?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:faariskhairrudin@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=FaarisKhairrudin&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- 9. Fun Fact -->
-<h3 align="center">⚡ Fun Fact</h3>
 <p align="center">
-  📚 I read research papers like most people read tweets.
+  <img alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=FaarisKhairrudin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
 </p>
 
-<!-- 10. Footer -->
+---
+
+## Let's Connect
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=60&section=footer"/>
+  <a href="https://www.linkedin.com/in/faaris-khairrudin-a10209310">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/faaris_khairrudin">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-12100e?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:faariskhairrudin@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Open to AI, data science, analytics, automation, and research-driven collaboration.</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,50:0077b6,100:03045e&height=80&section=footer" />
 </p>

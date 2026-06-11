@@ -72,12 +72,12 @@ focus:
 
 | Project | Focus | Short Description |
 |---|---|---|
-| [Social Video Intelligence - Satria Data 2025](https://github.com/FaarisKhairrudin/social-video-multimodal-analysis) | `Multimodal AI` `Whisper` `BLIP-2` `BERTopic` `Qwen` `Next.js` | 4th Place National project that turns social-media videos into structured insight through transcription, visual understanding, topic modeling, NER, summarization, and dashboard analytics. |
-| [IDX Smart Rebalance - Datathon UI 2025](https://github.com/FaarisKhairrudin/idx-smart-rebalance) | `Forecasting` `Deep RL` `FastAPI` `Stable-Baselines3` | Top 7 National finalist system for Indonesian stock-sector allocation using time-series forecasting, geopolitical signals, and DRL-based portfolio rebalancing. |
-| [Lenta AI Operations System](https://github.com/FaarisKhairrudin/lenta-ai-operations-system) | `AI Agent` `n8n` `Supabase` `WhatsApp Automation` | End-to-end business automation system with AI WhatsApp customer service, customer recognition, order handling, inventory flow, and owner notifications. |
-| [Crowd Detection & Counting](https://github.com/Frenwin/Hology-8.0-Crowd-Detection) | `Computer Vision` `CSRNet` `Density Map Regression` | Crowd-counting model for dense scenes using CSRNet and adaptive Gaussian density maps to estimate people under occlusion and high crowd density. |
-| [Smart Face Anti-Spoofing](https://github.com/FaarisKhairrudin/Smart-Face-AntiSpoofing) | `Computer Vision` `DINOv3` `Focal Loss` | Face anti-spoofing classifier designed to distinguish real faces from presentation attacks using deep visual representations and robust inference. |
-| [SQL Data Warehouse Project](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `SQL Server` `ETL` `Data Modeling` | Medallion-architecture warehouse with Bronze, Silver, and Gold layers for cleaner analytics-ready data modeling. |
+| [Social Video Intelligence - Satria Data 2025](https://github.com/FaarisKhairrudin/social-video-multimodal-analysis) | `Whisper` `BLIP-2` `BERTopic` `GLiNER` `Qwen` `Next.js` | End-to-end NLP and analytics pipeline for social-media videos, from raw video URLs to transcription, topic insight, emotion analysis, NER, summarization, and dashboard exploration. |
+| [IDX Smart Rebalance - Datathon UI 2025](https://github.com/FaarisKhairrudin/idx-smart-rebalance) | `NeuralForecast` `SAC` `Stable-Baselines3` `FastAPI` | Top 7 National finalist system for IDX sector allocation using 7-day volatility forecasting, geopolitical-risk signals, and a DRL allocation agent. |
+| [Lenta AI Operations System](https://github.com/FaarisKhairrudin/lenta-ai-operations-system) | `AI Agent` `n8n` `Supabase` `WhatsApp Automation` | End-to-end WhatsApp customer service and operations system for a delivery business, covering customer memory, order parsing, stock updates, notifications, and dashboarding. |
+| [Crowd Detection & Counting](https://github.com/Frenwin/Hology-8.0-Crowd-Detection) | `Computer Vision` `CSRNet` `Density Map Regression` | Hology 8.0 Data Mining solution for estimating crowd counts in dense images using CSRNet and adaptive Gaussian density maps. |
+| [Smart Face Anti-Spoofing](https://github.com/FaarisKhairrudin/Smart-Face-AntiSpoofing) | `PyTorch` `Transformers` `Computer Vision` `Macro F1` | Find IT UGM 2026 competition solution for classifying real faces and multiple face-spoofing attack types under varied real-world conditions. |
+| [SQL Data Warehouse Project](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | `SQL Server` `ETL` `Star Schema` | SQL Server data warehouse project using Medallion Architecture, with completed Bronze/Silver layers and Gold-layer business-ready modeling. |
 
 ---
 
@@ -87,45 +87,41 @@ focus:
 
 | Repository | What It Shows |
 |---|---|
-| [social-video-multimodal-analysis](https://github.com/FaarisKhairrudin/social-video-multimodal-analysis) | Multimodal AI pipeline for video insight extraction and dashboard analytics. |
-| [Prescriptive-food-price-intelligence](https://github.com/FaarisKhairrudin/Prescriptive-food-price-intelligence) | Food-price intelligence project combining forecasting and decision-support framing. |
-| [Smart-Face-AntiSpoofing](https://github.com/FaarisKhairrudin/Smart-Face-AntiSpoofing) | Deep learning approach for face anti-spoofing and biometric security. |
-| [idx-smart-rebalance](https://github.com/FaarisKhairrudin/idx-smart-rebalance) | Forecasting plus deep reinforcement learning for adaptive portfolio allocation. |
-| [neuralforecast-air-quality-jakarta](https://github.com/FaarisKhairrudin/neuralforecast-air-quality-jakarta) | Jakarta air-quality prediction using NeuralForecast and time-series modeling. |
-| [Hology-8.0-Crowd-Detection](https://github.com/Frenwin/Hology-8.0-Crowd-Detection) | Computer vision project for dense crowd counting with density-map regression. |
+| [social-video-multimodal-analysis](https://github.com/FaarisKhairrudin/social-video-multimodal-analysis) | Satria Data 2025 video analytics pipeline with transcription, BERTopic, emotion analysis, NER, LLM summarization, and Next.js dashboard. |
+| [Prescriptive-food-price-intelligence](https://github.com/FaarisKhairrudin/Prescriptive-food-price-intelligence) | Narapangan web app for Bandung red chili price prediction using PIHPS prices, NASA POWER weather, Hijri calendar features, and saved forecasting models. |
+| [Smart-Face-AntiSpoofing](https://github.com/FaarisKhairrudin/Smart-Face-AntiSpoofing) | Find IT UGM 2026 face anti-spoofing classifier across six attack classes. |
+| [idx-smart-rebalance](https://github.com/FaarisKhairrudin/idx-smart-rebalance) | DATATHON 2025 portfolio recommendation system with NeuralForecast volatility models and SAC-based allocation. |
+| [neuralforecast-air-quality-jakarta](https://github.com/FaarisKhairrudin/neuralforecast-air-quality-jakarta) | DATAVIDIA 2026 ISPU category prediction for DKI Jakarta using regression-then-classification and NeuralForecast/TFT. |
+| [Hology-8.0-Crowd-Detection](https://github.com/Frenwin/Hology-8.0-Crowd-Detection) | Hology 8.0 crowd counting solution using CSRNet and density-map regression. |
 
 ### Machine Learning
 
 | Repository | What It Shows |
 |---|---|
-| [coppa-violation-detection](https://github.com/FaarisKhairrudin/coppa-violation-detection) | ML classification workflow for COPPA-related violation detection. |
-| [bank-customer-deposit-prediction](https://github.com/FaarisKhairrudin/bank-customer-deposit-prediction) | Tabular ML classification with feature engineering, imbalance handling, and ensemble boosting. |
+| [coppa-violation-detection](https://github.com/FaarisKhairrudin/coppa-violation-detection) | FindIT UGM data science project to detect mobile apps that may violate COPPA based on app metadata and attributes. |
+| [bank-customer-deposit-prediction](https://github.com/FaarisKhairrudin/bank-customer-deposit-prediction) | Data Quest 2025 term-deposit prediction project with cleaning, feature engineering, tuning, evaluation, and voting ensemble modeling. |
 
 ### Data Analytics & Engineering
 
 | Repository | What It Shows |
 |---|---|
-| [SQL-Data-Warehouse-Project](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | Data warehouse design, ETL pipeline structure, and analytics-ready SQL modeling. |
+| [SQL-Data-Warehouse-Project](https://github.com/FaarisKhairrudin/SQL-Data-Warehouse-Project) | SQL Server warehouse project covering Medallion Architecture, ETL, fact/dimension modeling, and SQL-based analytics. |
 
 ### Automation & Agentic AI
 
 | Repository | What It Shows |
 |---|---|
-| [lenta-ai-operations-system](https://github.com/FaarisKhairrudin/lenta-ai-operations-system) | Agentic business automation with WhatsApp AI, n8n workflows, Supabase, and operational tooling. |
-
-### Web & Dashboard
-
-| Repository | What It Shows |
-|---|---|
-| [lenta-dashboard](https://github.com/FaarisKhairrudin/lenta-dashboard) | Operational dashboard interface for business monitoring and manual order workflows. |
+| [lenta-ai-operations-system](https://github.com/FaarisKhairrudin/lenta-ai-operations-system) | Agentic business automation with WhatsApp AI, n8n workflow orchestration, Supabase operations, order tools, stock flow, and admin notifications. |
 
 ### Academic Programming Projects
 
 | Repository | What It Shows |
 |---|---|
-| [Aplikasi-email](https://github.com/FaarisKhairrudin/Aplikasi-email) | Email application project from programming coursework. |
-| [Teks-Editor](https://github.com/FaarisKhairrudin/Teks-Editor) | Text editor application project focused on core programming concepts. |
-| [The-Object-Hour](https://github.com/Fall-Llihc/The-Object-Hour) | Object-oriented programming project built as an academic/team assignment. |
+| [Aplikasi-email](https://github.com/FaarisKhairrudin/Aplikasi-email) | Simple Go email application with login, inbox, sending mail, and in-memory array/struct storage. |
+| [Teks-Editor](https://github.com/FaarisKhairrudin/Teks-Editor) | C++ text editor using linked list and stack concepts for cursor movement, copy-paste, search-replace, undo, and redo. |
+| [The-Object-Hour](https://github.com/Fall-Llihc/The-Object-Hour) | Java Servlet/JSP MVC e-commerce app for premium watches with PostgreSQL/Supabase, authentication, customer flows, and admin product management. |
+
+> Note: `lenta-dashboard` was listed in my local project source, but the public GitHub URL returned 404 during verification, so I left it out of the public directory until the correct/public link is confirmed.
 
 ---
 

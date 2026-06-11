@@ -42,7 +42,6 @@ focus:
   - Machine Learning & Deep Learning
   - Computer Vision & Multimodal AI
   - Time-Series Forecasting
-  - Deep Reinforcement Learning
   - Big Data Analytics
 ```
 

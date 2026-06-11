@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3600&pause=900&color=00B4D8&center=true&vCenter=true&width=900&lines=Data+Science+Student+%40+Telkom+University;AI+Builder+for+Multimodal%2C+Vision%2C+Forecasting+%26+DRL;Turning+data+pipelines+into+usable+AI+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3600&pause=900&color=00B4D8&center=true&vCenter=true&width=900&lines=Data+Science+Student+%40+Telkom+University;AI+Builder+for+Multimodal%2C+Vision+%26+Forecasting;Turning+data+pipelines+into+usable+AI+systems" />
 </p>
 
 <p align="center">
